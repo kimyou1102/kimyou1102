@@ -1,7 +1,39 @@
-## Hi there 👋
+## 안녕하세요, Frontend Developer 김유경 입니다.
+
+### Contact
+📩 email: yoosk5485@gmail.com
+
+### Teck Stack
+  <div>
+      <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
+      <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+      <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  </div>
+  
+
+
+### Team Projects
+- [LocoMoco 위치기반 모각코 서비스](https://github.com/jae-hun-e/LocoMoco) (2024.01 ~ 진행중 )
+- [대박사건 - 익명/기명 편지서비스](https://github.com/prgrms-fe-devcourse/FEDC5_jackpot_letter_Donguk) (2023-12 ~ 2024.01)
+
+
+
+### Experiences
+- 프로그래머스 데브코스 프론트엔드 5기(23.09 ~ 24.03)
+- 멋쟁이사자처럼 10기 운영진(22.01 ~ 22.12)
+
+<br/> <br/>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyou1102&show_icons=true&theme=dracula)
+
+
+
 
 <!--
-**kimyou1102/kimyou1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
