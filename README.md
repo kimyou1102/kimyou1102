@@ -25,7 +25,7 @@
 - 프로그래머스 데브코스 프론트엔드 5기(23.09 ~ 24.03)
 - 멋쟁이사자처럼 10기 운영진(22.01 ~ 22.12)
 
-<br/> <br/>
+<br/>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyou1102&show_icons=true&theme=dracula)
