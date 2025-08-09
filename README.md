@@ -16,12 +16,13 @@
 
 
 ### Team Projects
-- [LocoMoco 위치기반 모각코 서비스](https://github.com/jae-hun-e/LocoMoco) (2024.01 ~ 진행중 )
-- [대박사건 - 익명/기명 편지서비스](https://github.com/prgrms-fe-devcourse/FEDC5_jackpot_letter_Donguk) (2023-12 ~ 2024.01)
+- [핏토링- 헬스 멘토링 서비스](https://github.com/woowacourse-teams/2025-Fit-toring) (2025.07 ~)
+- [LocoMoco - 위치기반 모각코 서비스](https://github.com/jae-hun-e/LocoMoco) (2024.01 ~ 2024.10)
 
 
 
 ### Experiences
+- 우아한테크코스 7기(25.02~)
 - 프로그래머스 데브코스 프론트엔드 5기(23.09 ~ 24.03)
 - 멋쟁이사자처럼 10기 운영진(22.01 ~ 22.12)
 
