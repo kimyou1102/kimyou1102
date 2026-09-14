@@ -16,13 +16,14 @@
 
 
 ### Team Projects
-- [핏토링- 헬스 멘토링 서비스](https://github.com/woowacourse-teams/2025-Fit-toring) (2025.07 ~)
+- [이그모 - 실시간 AI 이미지 프롬프트 추측 게임 서비스](https://github.com/igmo-team/igmo-frontend) (2026.07 ~)
+- [핏토링 - 헬스 멘토링 서비스](https://github.com/woowacourse-teams/2025-Fit-toring) (2025.07 ~ 2026.07)
 - [LocoMoco - 위치기반 모각코 서비스](https://github.com/jae-hun-e/LocoMoco) (2024.01 ~ 2024.10)
 
 
 
 ### Experiences
-- 우아한테크코스 7기(25.02~)
+- 우아한테크코스 7기(25.02~ 25.11)
 - 프로그래머스 데브코스 프론트엔드 5기(23.09 ~ 24.03)
 - 멋쟁이사자처럼 10기 운영진(22.01 ~ 22.12)
 
